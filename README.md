@@ -5,7 +5,6 @@
 | | |
 |---|---|
 | **Site** | [darkheartlabs.technology](https://darkheartlabs.technology) |
-| **Portfolio hub** | [projects-workspaces](https://github.com/jv-darkheartlabs/projects-workspaces) (private — ask for access) |
 | **LinkedIn** | [linkedin.com/in/darkheartlabs](https://www.linkedin.com/in/darkheartlabs) |
 
 ## Start here
